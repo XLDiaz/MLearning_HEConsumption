@@ -37,10 +37,10 @@ La base de datos utilizada es **"Individual household electric power consumption
 ![image](https://user-images.githubusercontent.com/109623726/183992310-3bc78185-2cb5-4a7e-bbf3-c7c93266ea57.png)
 
 
-#   ARIMA
+# Detección de Anomalías con Medias Móviles
 
-![image](https://user-images.githubusercontent.com/109623726/183993190-2b14e6c8-c5c9-4433-ba29-98ca48ebb82a.png)
+**Detección de Anomalías sobre los consumos en horarios picos que se determinaron durante el procesamiento de los datos**
 
+![image](https://user-images.githubusercontent.com/109623726/184411344-aa8e6a03-057a-48fb-8c8b-3e127ef577d7.png)
 
-![image](https://user-images.githubusercontent.com/109623726/183993016-c10734d8-5eee-4024-8a5b-8b872e9d42cb.png)
 
