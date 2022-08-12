@@ -1,5 +1,5 @@
 # MLearning_HEConsumption
-Este repositorio contiene mi proyecto de tesis para la obtención del título de Ingeniería en Telecomunicaciones y Electrónica:
+Este repositorio contiene mi **proyecto de tesis para la obtención del título de Ingeniería en Telecomunicaciones y Electrónica**:
     "Aprendizaje Autoático en el Consumo Energético en el Hogar"
 Se porpone el desarrollo de análisis completo de la base de datos de consumo de energías usando con el **objetivo** de llegar a predecir valores futuros de consumo y detectar anomalías en el mismo.
 
@@ -18,8 +18,8 @@ La base de datos utilizada es **"Individual household electric power consumption
 ![image](https://user-images.githubusercontent.com/109623726/183989648-3a6c5f6f-bce2-4834-8644-81e1c7bdc53c.png)
 
 
-# Modelos Predictivos
 # LSTM
+
 ![image](https://user-images.githubusercontent.com/109623726/183990705-423febe0-3d6c-4a73-9b90-828c9cf7ccf0.png)
 
 ![image](https://user-images.githubusercontent.com/109623726/183991013-538d65ba-1c38-4d10-b806-1249646cc8a1.png)
