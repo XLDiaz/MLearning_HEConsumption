@@ -5,20 +5,36 @@ Se porpone el desarrollo de análisis completo de la base de datos de consumo de
 
 La base de datos utilizada es **"Individual household electric power consumption Data Set"** que se puede encontrar en el **UCI Machine Learning Repository** al cual se puede acceder mediante el siguiente Link: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
-# Características de DataSet y Visualizaciones
+# Características de DataSet:
 
 ![image](https://user-images.githubusercontent.com/109623726/183507626-21d0785e-2531-4491-a533-9175fcdd0085.png)
 
-![image](https://user-images.githubusercontent.com/109623726/183984652-60761101-7a60-4c16-ae34-d40f692f9bad.png)
+# Preprocesamiento:
+
+![image](https://user-images.githubusercontent.com/109623726/188973377-75ad7fe9-bc91-46e6-81a2-40194809bca9.png)
+
+![image](https://user-images.githubusercontent.com/109623726/188973616-cdc3a6d5-54f4-4905-a35b-1a434a776179.png)
+
+![image](https://user-images.githubusercontent.com/109623726/188974228-a1f18aa6-cdd4-4c76-8020-1b6826f7388a.png)
+
+![image](https://user-images.githubusercontent.com/109623726/188974577-f5d751da-8f6c-4d6e-895f-f08a1fea27e2.png)
+
+![image](https://user-images.githubusercontent.com/109623726/188974764-f9464fa0-de85-42e3-98d8-e9525e118bd7.png)
+
  
-![image](https://user-images.githubusercontent.com/109623726/183986539-660eda4a-fb8f-44ad-82d4-90f64669beb0.png)
 
-![image](https://user-images.githubusercontent.com/109623726/183986942-613b435f-51c8-4498-bd1f-de99079c9e61.png)
+![image](https://user-images.githubusercontent.com/109623726/188975511-ba978395-749c-40ef-90c7-3165da3719af.png)
 
-![image](https://user-images.githubusercontent.com/109623726/183989648-3a6c5f6f-bce2-4834-8644-81e1c7bdc53c.png)
+![image](https://user-images.githubusercontent.com/109623726/188975644-46bed310-cc06-4076-948a-4bfae0cf2d2e.png)
+
+![image](https://user-images.githubusercontent.com/109623726/188975886-499de426-060a-4dc6-80ca-3de5a0f8bc43.png)
+
+![image](https://user-images.githubusercontent.com/109623726/188976190-2985d7df-71a6-42e6-ab52-cc46ea45eaba.png)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/109623726/188968949-f030087a-07fc-4bb4-aa6e-288d9e05852e.png)
-
 
 ![image](https://user-images.githubusercontent.com/109623726/188970938-5d017fd3-14c8-448f-9a8d-a4eab0d9e830.png)
 
